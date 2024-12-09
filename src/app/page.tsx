@@ -1,6 +1,5 @@
 import React from 'react'
 import MainContent from './components/MainContent'
-import Footer from './components/Footer'
 import Menu from './components/Menu'
 import Ourchefs from './components/Ourchefs'
 import SignUp from './components/SignUp'
