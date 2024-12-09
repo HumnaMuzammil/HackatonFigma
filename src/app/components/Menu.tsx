@@ -617,8 +617,9 @@ export default function Menu() {
               src="/images/v6.svg"
               width={113.98}
               height={129.08}
-              alt="Partner 6"
-            />
+              alt="Partner 6">
+                
+              </Image>
           </div>
         </div>
       </div>

@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import { IoIosLock, IoMdMail, IoMdPerson } from 'react-icons/io';
+import { IoIosLock, IoIosPerson, IoMdMail} from 'react-icons/io';
 import { FcGoogle } from 'react-icons/fc';
 import { FaApple } from 'react-icons/fa';
 function SignUp() {
@@ -51,7 +51,7 @@ function SignUp() {
 
               className="w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
             />
-             <IoMdPerson />
+             <IoIosPerson />
              </div>
           </div>
           <div className="relative mb-4">
