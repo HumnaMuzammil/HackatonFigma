@@ -87,6 +87,12 @@ API Endpoints
 .GET/api/users/[id]:Retrieve user profile info
 .PATCH/api/products/[id]:Update product stock
 .Decrease stock when a purchase is made
+### Api for food and chefs
+*Provided by the mentor*
+https://sanity-nextjs-rouge.vercel.app/api/chefs
+https://sanity-nextjs-rouge.vercel.app/api/foods
+
+
 
 User Roles
 *Admin*
